@@ -8,5 +8,10 @@
         "hotel": "janki",
         "price": 250,
         "location": "veraval"
-    }
+    },
+    [{
+    "name":"Real Taste",
+    "price": 170,
+    "location": "Rajkot"
+    }]
 ]
