@@ -1,0 +1,12 @@
+[
+    {
+        "hotel": "khushboo",
+        "price": 1400,
+        "location": "veraval"
+    },
+    {
+        "hotel": "janki",
+        "price": 250,
+        "location": "veraval"
+    }
+]
